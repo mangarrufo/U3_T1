@@ -1,0 +1,2 @@
+include ':app', 'Act_1'
+rootProject.name='U3_T1'
